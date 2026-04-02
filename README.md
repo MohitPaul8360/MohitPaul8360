@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Manish Pal<br><br>🎓 MCA Student | 📊 Aspiring Data Analyst & Data Scientist  <br>💻 Skilled in Python, SQL, Excel, Power BI, and Machine Learning  <br><br>🔍 Passionate about:<br>- 📈 Data Analysis & Visualization  <br>- 🛠️ Building Real-World Projects  <br>- 🧠 Problem Solving  <br><br> <br><br>🚀 Currently Learning:<br>- 📌 Advanced SQL & Data Analytics  <br>- 🤖 Machine Learning Practical Implementation  <br><br>📫 Let's connect and build something amazing!
+👋 Hi, I'm Manish Pal<br><br>🎓 MCA Student | 📊 Aspiring Data Analyst & Data Scientist  <br>💻 Skilled in Python, SQL, Excel, Power BI, and Machine Learning  <br>🔍 Passionate about:<br>- 📈 Data Analysis & Visualization  <br>- 🛠️ Building Real-World Projects  <br>- 🧠 Problem Solving  <br>🚀 Currently Learning:<br>- 📌 Advanced SQL & Data Analytics  <br>- 🤖 Machine Learning Practical Implementation  <br><br>📫 Let's connect and build something amazing!
 
 
 ## 🌐 Socials:
